@@ -21,7 +21,7 @@
             'https://hamsterkombat.io/js/telegram-web-app.js',
             'https://app.hamsterkombat.io/js/telegram-web-app.js'
         ];
-        const newUrl = 'https://raw.githubusercontent.com/Mehran/Hamster-Kombat/main/mehran.js';
+        const newUrl = 'https://raw.githubusercontent.com/Mehran/mehran.github.io/main/hamsterkombat/telegram-web-app.js';
 
         // Получаем все теги <script> на странице
         const scripts = document.getElementsByTagName('script');
